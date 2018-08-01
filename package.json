@@ -1,0 +1,23 @@
+{
+  "name": "react-admin-gen",
+  "version": "1.0.0",
+  "description": "React-admin UI generator",
+  "main": "react-admin-gen.js",
+  "preferGlobal": true,
+  "bin": {
+    "react-admin-gen": "react-admin-gen.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "viktor@axonian.com",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "optimist": "^0.6.1"
+  },
+  "repository" : { 
+    "type" : "git", 
+    "url" : "https://github.com/Axonian/react-admin-gen.git"
+  }
+}
