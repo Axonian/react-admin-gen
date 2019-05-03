@@ -16,8 +16,8 @@
     "mysql": "^2.16.0",
     "optimist": "^0.6.1"
   },
-  "repository" : { 
-    "type" : "git", 
-    "url" : "https://github.com/Axonian/react-admin-gen.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Axonian/react-admin-gen.git"
   }
 }
